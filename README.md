@@ -1,10 +1,11 @@
 # Nuxt.js + TypeScript + Composition API Template
 
 ## Core
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-green?style=for-the-badge&logo=nuxt.js)
-![Yarn Berry](https://img.shields.io/badge/-Yarn__Berry-green?style=for-the-badge&logo=yarn)
-![TypeScript](https://img.shields.io/badge/-TypeScript-green?style=for-the-badge&logo=typescript)
-![axios](https://img.shields.io/badge/-axios-green?style=for-the-badge&logo=axios)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## Yarn Berry 
 1. npm install yarn -g
