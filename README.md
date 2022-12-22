@@ -13,5 +13,6 @@
 3. yarn
 
 ## To be added
-- Axios Module
 - more Nuxt + Composition API Example
+- useAsyncData Example
+- Composable
